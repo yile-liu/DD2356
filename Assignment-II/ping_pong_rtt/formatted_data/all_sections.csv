@@ -1,0 +1,211 @@
+group,section,message_size_bytes,rtt_microseconds
+dardel,Dardel 1,4,4.203183
+dardel,Dardel 1,8,4.154083
+dardel,Dardel 1,16,4.508881
+dardel,Dardel 1,32,4.178336
+dardel,Dardel 1,64,4.189856
+dardel,Dardel 1,128,5.842411
+dardel,Dardel 1,256,5.747157
+dardel,Dardel 1,512,5.76716
+dardel,Dardel 1,1024,5.946087
+dardel,Dardel 1,2048,6.271918
+dardel,Dardel 1,4096,6.761526
+dardel,Dardel 1,8192,7.003836
+dardel,Dardel 1,16384,7.893823
+dardel,Dardel 1,32768,13.714076
+dardel,Dardel 1,65536,15.897554
+dardel,Dardel 1,131072,21.639975
+dardel,Dardel 1,262144,33.128966
+dardel,Dardel 1,524288,59.757531
+dardel,Dardel 1,1048576,110.087198
+dardel,Dardel 1,2097152,205.358038
+dardel,Dardel 1,4194304,395.159736
+school_cluster,School Cluster 1,4,0.699968
+school_cluster,School Cluster 1,8,0.678102
+school_cluster,School Cluster 1,16,0.904878
+school_cluster,School Cluster 1,32,0.899877
+school_cluster,School Cluster 1,64,1.043154
+school_cluster,School Cluster 1,128,0.9541
+school_cluster,School Cluster 1,256,1.080875
+school_cluster,School Cluster 1,512,1.389944
+school_cluster,School Cluster 1,1024,1.570854
+school_cluster,School Cluster 1,2048,2.049346
+school_cluster,School Cluster 1,4096,4.946817
+school_cluster,School Cluster 1,8192,6.853843
+school_cluster,School Cluster 1,16384,10.298664
+school_cluster,School Cluster 1,32768,17.449091
+school_cluster,School Cluster 1,65536,31.17428
+school_cluster,School Cluster 1,131072,32.807596
+school_cluster,School Cluster 1,262144,60.411665
+school_cluster,School Cluster 1,524288,116.609156
+school_cluster,School Cluster 1,1048576,223.720305
+school_cluster,School Cluster 1,2097152,404.55792
+school_cluster,School Cluster 1,4194304,735.59077
+dardel,Dardel 2,4,4.462104
+dardel,Dardel 2,8,4.467377
+dardel,Dardel 2,16,4.576781
+dardel,Dardel 2,32,4.5106
+dardel,Dardel 2,64,4.541498
+dardel,Dardel 2,128,6.164586
+dardel,Dardel 2,256,6.065553
+dardel,Dardel 2,512,5.993708
+dardel,Dardel 2,1024,5.999625
+dardel,Dardel 2,2048,6.390054
+dardel,Dardel 2,4096,6.804722
+dardel,Dardel 2,8192,7.095415
+dardel,Dardel 2,16384,7.82534
+dardel,Dardel 2,32768,13.994433
+dardel,Dardel 2,65536,17.677218
+dardel,Dardel 2,131072,24.929927
+dardel,Dardel 2,262144,38.362802
+dardel,Dardel 2,524288,62.941115
+dardel,Dardel 2,1048576,107.986443
+dardel,Dardel 2,2097152,200.906085
+dardel,Dardel 2,4194304,385.134623
+dardel,Dardel 3,4,4.125955
+dardel,Dardel 3,8,4.054353
+dardel,Dardel 3,16,4.186208
+dardel,Dardel 3,32,4.142916
+dardel,Dardel 3,64,4.159377
+dardel,Dardel 3,128,5.539703
+dardel,Dardel 3,256,5.786972
+dardel,Dardel 3,512,6.126462
+dardel,Dardel 3,1024,5.982364
+dardel,Dardel 3,2048,6.18818
+dardel,Dardel 3,4096,6.88289
+dardel,Dardel 3,8192,7.033723
+dardel,Dardel 3,16384,7.707226
+dardel,Dardel 3,32768,14.731663
+dardel,Dardel 3,65536,19.552133
+dardel,Dardel 3,131072,27.988556
+dardel,Dardel 3,262144,42.890272
+dardel,Dardel 3,524288,67.803664
+dardel,Dardel 3,1048576,114.785212
+dardel,Dardel 3,2097152,203.433437
+dardel,Dardel 3,4194304,395.288102
+dardel,Dardel 4,4,4.35024
+dardel,Dardel 4,8,4.351698
+dardel,Dardel 4,16,4.543802
+dardel,Dardel 4,32,4.33065
+dardel,Dardel 4,64,4.427386
+dardel,Dardel 4,128,5.858503
+dardel,Dardel 4,256,6.120103
+dardel,Dardel 4,512,6.348043
+dardel,Dardel 4,1024,6.2365
+dardel,Dardel 4,2048,6.654863
+dardel,Dardel 4,4096,7.146283
+dardel,Dardel 4,8192,7.612167
+dardel,Dardel 4,16384,8.279132
+dardel,Dardel 4,32768,15.188932
+dardel,Dardel 4,65536,19.620961
+dardel,Dardel 4,131072,28.192439
+dardel,Dardel 4,262144,43.12959
+dardel,Dardel 4,524288,68.787442
+dardel,Dardel 4,1048576,118.085792
+dardel,Dardel 4,2097152,211.42688
+dardel,Dardel 4,4194304,384.429873
+dardel,Dardel 5,4,4.18254
+dardel,Dardel 5,8,4.261823
+dardel,Dardel 5,16,4.297576
+dardel,Dardel 5,32,4.274395
+dardel,Dardel 5,64,4.210612
+dardel,Dardel 5,128,5.535462
+dardel,Dardel 5,256,5.668437
+dardel,Dardel 5,512,5.73128
+dardel,Dardel 5,1024,5.919322
+dardel,Dardel 5,2048,6.237907
+dardel,Dardel 5,4096,6.775653
+dardel,Dardel 5,8192,7.07828
+dardel,Dardel 5,16384,7.990784
+dardel,Dardel 5,32768,13.351446
+dardel,Dardel 5,65536,16.033843
+dardel,Dardel 5,131072,21.568959
+dardel,Dardel 5,262144,33.297986
+dardel,Dardel 5,524288,55.717607
+dardel,Dardel 5,1048576,102.1415
+dardel,Dardel 5,2097152,193.151583
+dardel,Dardel 5,4194304,373.587528
+school_cluster,School Cluster 2,4,0.686597
+school_cluster,School Cluster 2,8,0.677085
+school_cluster,School Cluster 2,16,0.90364
+school_cluster,School Cluster 2,32,0.860735
+school_cluster,School Cluster 2,64,1.068529
+school_cluster,School Cluster 2,128,0.951634
+school_cluster,School Cluster 2,256,1.067477
+school_cluster,School Cluster 2,512,1.381419
+school_cluster,School Cluster 2,1024,1.664563
+school_cluster,School Cluster 2,2048,2.138436
+school_cluster,School Cluster 2,4096,5.195097
+school_cluster,School Cluster 2,8192,6.956908
+school_cluster,School Cluster 2,16384,10.691163
+school_cluster,School Cluster 2,32768,18.192498
+school_cluster,School Cluster 2,65536,32.130465
+school_cluster,School Cluster 2,131072,33.474852
+school_cluster,School Cluster 2,262144,61.631152
+school_cluster,School Cluster 2,524288,118.396661
+school_cluster,School Cluster 2,1048576,227.440219
+school_cluster,School Cluster 2,2097152,408.97239
+school_cluster,School Cluster 2,4194304,751.801756
+school_cluster,School Cluster 3,4,0.702341
+school_cluster,School Cluster 3,8,0.676765
+school_cluster,School Cluster 3,16,0.863578
+school_cluster,School Cluster 3,32,0.880897
+school_cluster,School Cluster 3,64,1.053699
+school_cluster,School Cluster 3,128,0.952379
+school_cluster,School Cluster 3,256,1.077896
+school_cluster,School Cluster 3,512,1.578983
+school_cluster,School Cluster 3,1024,1.672407
+school_cluster,School Cluster 3,2048,2.182095
+school_cluster,School Cluster 3,4096,5.097708
+school_cluster,School Cluster 3,8192,6.791877
+school_cluster,School Cluster 3,16384,10.507705
+school_cluster,School Cluster 3,32768,17.68581
+school_cluster,School Cluster 3,65536,31.614748
+school_cluster,School Cluster 3,131072,33.145731
+school_cluster,School Cluster 3,262144,60.975796
+school_cluster,School Cluster 3,524288,117.087708
+school_cluster,School Cluster 3,1048576,225.273199
+school_cluster,School Cluster 3,2097152,403.737774
+school_cluster,School Cluster 3,4194304,735.629938
+school_cluster,School Cluster 4,4,0.700262
+school_cluster,School Cluster 4,8,0.685666
+school_cluster,School Cluster 4,16,0.865746
+school_cluster,School Cluster 4,32,0.884983
+school_cluster,School Cluster 4,64,1.043444
+school_cluster,School Cluster 4,128,0.951732
+school_cluster,School Cluster 4,256,1.076842
+school_cluster,School Cluster 4,512,1.427374
+school_cluster,School Cluster 4,1024,1.730564
+school_cluster,School Cluster 4,2048,2.248179
+school_cluster,School Cluster 4,4096,5.28055
+school_cluster,School Cluster 4,8192,6.976118
+school_cluster,School Cluster 4,16384,10.632947
+school_cluster,School Cluster 4,32768,17.989167
+school_cluster,School Cluster 4,65536,31.840599
+school_cluster,School Cluster 4,131072,33.611545
+school_cluster,School Cluster 4,262144,61.773375
+school_cluster,School Cluster 4,524288,118.182224
+school_cluster,School Cluster 4,1048576,225.811686
+school_cluster,School Cluster 4,2097152,401.347154
+school_cluster,School Cluster 4,4194304,732.774957
+school_cluster,School Cluster 5,4,0.697621
+school_cluster,School Cluster 5,8,0.67406
+school_cluster,School Cluster 5,16,0.903321
+school_cluster,School Cluster 5,32,0.883539
+school_cluster,School Cluster 5,64,1.06394
+school_cluster,School Cluster 5,128,0.962315
+school_cluster,School Cluster 5,256,1.0976
+school_cluster,School Cluster 5,512,1.429629
+school_cluster,School Cluster 5,1024,1.473681
+school_cluster,School Cluster 5,2048,2.01958
+school_cluster,School Cluster 5,4096,4.916051
+school_cluster,School Cluster 5,8192,6.717425
+school_cluster,School Cluster 5,16384,10.247537
+school_cluster,School Cluster 5,32768,17.072941
+school_cluster,School Cluster 5,65536,30.393102
+school_cluster,School Cluster 5,131072,34.297621
+school_cluster,School Cluster 5,262144,63.489234
+school_cluster,School Cluster 5,524288,122.332717
+school_cluster,School Cluster 5,1048576,237.362311
+school_cluster,School Cluster 5,2097152,413.450801
+school_cluster,School Cluster 5,4194304,740.836494
